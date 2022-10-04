@@ -1,0 +1,100 @@
+commit 97d409ea8bc504e559a908976ee87ecab75d602d
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:33:09 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 493fcadbf17cc763fff131057b179327b23c3aec
+Merge: cb0c178 ba15097
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:31:50 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit cb0c17891687cc08563b3f42f5e0c5a099b1538c
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:22:24 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ba15097f680aefad0aa38cab8038822caf6c2aed
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:22:24 2022 -0300
+
+    Agregando las estaciones del año
+
+commit c5a158fe34b02134290b896a1159374844940c52
+Merge: 8d6944b e0d0d51
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:18:12 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e0d0d5110d0d9cbdd35efbc6ffc51be4c9020766
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:14:13 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 8d6944be93f2bc5e66f5a49143d1a5b3de3c4eaa
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:12:04 2022 -0300
+
+    Agregando style.css al index.html
+
+commit f62a4b99430f31fef1d3ddf5f03314d4dec41a80
+Merge: 1b95712 597abbb
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:05:58 2022 -0300
+
+    Merge branch 'js'
+
+commit 597abbb3f8f0ca1cf0294af0c8d577022977d052
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:00:35 2022 -0300
+
+    Creando Archivo index.js
+
+commit 1b95712e38b2971aab4ca624c340904c2bc12746
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 19:56:28 2022 -0300
+
+    Creando Archivo style.css
+
+commit 6cc1ab3a347677e1f2d5c40755122cc3cbe78964
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 19:53:05 2022 -0300
+
+    Creando Archivo index.html
+
+commit f7c25b3d2953db87a0d169eb490f1edeefc638f9
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Mon Oct 3 20:56:02 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 33041fd6373765b8d2ead339e22862f23a19dab6
+Author: Ignacio Manuel Baez <110572692+nachoslo@users.noreply.github.com>
+Date:   Wed Sep 28 20:02:50 2022 -0300
+
+    Creando licencia del repositorio
+    
+    Licencia MIT.
+
+commit dd3736c91289fafb6a600410eda8463dd2d00bae
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Wed Sep 28 19:56:59 2022 -0300
+
+    Agregando mas contenido al README
+
+commit 5b60a297f5c10fcee832019d4e1b208131b97ad7
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Thu Sep 22 20:35:35 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 7ee988b69a1bfb796b0ee54981d8a1fda668afe0
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Thu Sep 22 20:29:48 2022 -0300
+
+    Primer commit 😁
