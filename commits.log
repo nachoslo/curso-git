@@ -1,3 +1,21 @@
+commit 95eef8fa24a9be31b2ba8c2d714756b0dd3010e7
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Wed Oct 5 19:46:56 2022 -0300
+
+    Agregandoimagen de flujo Git y poniendo fachero el index.html
+
+commit 8f391a67486396d6cbd023aa2ef6514134c9bc99
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Wed Oct 5 19:31:03 2022 -0300
+
+    v1.0.0
+
+commit 81121ac8bb3947b5e265c9398b27676e473ea3e7
+Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
+Date:   Tue Oct 4 20:51:22 2022 -0300
+
+    Respaldando logs del repositorio
+
 commit 97d409ea8bc504e559a908976ee87ecab75d602d
 Author: Ignacio Manuel Baez <ignaciomanuelbaez@hotmail.com>
 Date:   Tue Oct 4 20:33:09 2022 -0300
